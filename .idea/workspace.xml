@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8262153c-d2d7-4951-ad5b-37026f757989" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1349785653">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="8" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="3" />
+          <entry key="jpg" value="99" />
+          <entry key="png" value="6" />
+          <entry key="py" value="150" />
+          <entry key="txt" value="4" />
+          <entry key="xml" value="1" />
+          <entry key="yml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="105" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="150" />
+          <entry key="XML" value="1" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="61" />
+          <entry key="py" value="18152" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="61" />
+          <entry key="Python" value="18152" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RegForm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4130">
+              <caret line="487" lean-forward="true" selection-start-line="487" selection-end-line="487" />
+              <folding>
+                <element signature="e#196#238#0" expanded="true" />
+                <marker date="1552679699654" expanded="true" signature="418:423" ph="..." />
+                <marker date="1552679699654" expanded="true" signature="15604:15611" ph="..." />
+                <marker date="1552679699654" expanded="true" signature="16397:16403" ph="..." />
+                <marker date="1552679699654" expanded="true" signature="18384:18390" ph="..." />
+                <marker date="1552679699654" expanded="true" signature="21456:21458" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Database.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <marker date="1552675415999" expanded="true" signature="52:57" ph="..." />
+                <marker date="1552675415999" expanded="true" signature="1464:1465" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DetailForm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="457" column="51" lean-forward="true" selection-start-line="457" selection-start-column="51" selection-end-line="457" selection-end-column="51" />
+              <folding>
+                <element signature="e#195#205#0" expanded="true" />
+                <marker date="1552721319601" expanded="true" signature="20859:20865" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LoginForm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="104" column="39" lean-forward="true" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="39" />
+              <folding>
+                <element signature="e#197#233#0" expanded="true" />
+                <marker date="1552714970243" expanded="true" signature="6781:6789" ph="..." />
+                <marker date="1552714970243" expanded="true" signature="9157:9158" ph="..." />
+                <marker date="1552714970243" expanded="true" signature="9157:9367" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacialRecognize.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>status</find>
+      <find>frame</find>
+      <find>except Exception as e:</find>
+      <find>time</find>
+      <find>trainer</find>
+      <find>formla</find>
+      <find>th</find>
+      <find>TH</find>
+      <find>table</find>
+      <find>select</find>
+      <find>ui</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ca.py" />
+        <option value="$PROJECT_DIR$/training.py" />
+        <option value="$PROJECT_DIR$/myclass.py" />
+        <option value="$PROJECT_DIR$/class2.py" />
+        <option value="$PROJECT_DIR$/Recongize.py" />
+        <option value="$PROJECT_DIR$/models.py" />
+        <option value="$PROJECT_DIR$/start.py" />
+        <option value="$PROJECT_DIR$/views.py" />
+        <option value="$PROJECT_DIR$/face-detection-in-pyqt.py" />
+        <option value="$PROJECT_DIR$/f2.py" />
+        <option value="$PROJECT_DIR$/f1.py" />
+        <option value="$PROJECT_DIR$/GUI.py" />
+        <option value="$PROJECT_DIR$/ex.py" />
+        <option value="$PROJECT_DIR$/[FILENAME].py" />
+        <option value="$PROJECT_DIR$/GUI_Login.py" />
+        <option value="$PROJECT_DIR$/fds.py" />
+        <option value="$PROJECT_DIR$/f.py" />
+        <option value="$PROJECT_DIR$/father.py" />
+        <option value="$PROJECT_DIR$/son.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/FaceRecognize.py" />
+        <option value="$PROJECT_DIR$/Register.py" />
+        <option value="$PROJECT_DIR$/DialogBrowse.py" />
+        <option value="$PROJECT_DIR$/Register_Update.py" />
+        <option value="$PROJECT_DIR$/Engine.py" />
+        <option value="$PROJECT_DIR$/Login.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/fix.py" />
+        <option value="$PROJECT_DIR$/FacialRecognize.py" />
+        <option value="$PROJECT_DIR$/ListForm.py" />
+        <option value="$PROJECT_DIR$/aaa.py" />
+        <option value="$PROJECT_DIR$/Database.py" />
+        <option value="$PROJECT_DIR$/RegForm.py" />
+        <option value="$PROJECT_DIR$/LoginForm.py" />
+        <option value="$PROJECT_DIR$/DetailForm.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="527" />
+    <option name="y" value="111" />
+    <option name="width" value="1120" />
+    <option name="height" value="686" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Facial_Recognition_System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Facial_Recognition_System" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bokee\Desktop\Facial_Recognition_System\data" />
+      <recent name="C:\Users\bokee\Desktop\Facial_Recognition_System" />
+      <recent name="C:\Users\bokee\Desktop\Facial_Recognition_System\trainer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bokee\Desktop\Facial_Recognition_System\data" />
+      <recent name="C:\Users\bokee\Desktop\Facial_Recognition_System\trainer" />
+      <recent name="C:\Users\bokee\Desktop\Facial_Recognition_System\data\authen_status" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.DetailForm">
+    <configuration name="DetailForm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Facial_Recognition_System" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DetailForm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ListForm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Facial_Recognition_System" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ListForm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LoginForm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Facial_Recognition_System" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LoginForm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RegForm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Facial_Recognition_System" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RegForm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aaa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Facial_Recognition_System" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.LoginForm" />
+      <item itemvalue="Python.RegForm" />
+      <item itemvalue="Python.DetailForm" />
+      <item itemvalue="Python.ListForm" />
+      <item itemvalue="Python.aaa" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DetailForm" />
+        <item itemvalue="Python.LoginForm" />
+        <item itemvalue="Python.RegForm" />
+        <item itemvalue="Python.aaa" />
+        <item itemvalue="Python.ListForm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8262153c-d2d7-4951-ad5b-37026f757989" name="Default Changelist" comment="" />
+      <created>1551036944320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551036944320</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="486" y="382" width="1120" height="686" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19778189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917467" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49841017" visible="true" weight="0.60144925" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39722863" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.39923224" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50158983" side_tool="true" weight="0.19515012" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49962825" weight="0.32678983" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dataset/User.3.49.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.3.48.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.3.45.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.3.40.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.3.12.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.3.16.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.3.8.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.3.5.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.3.28.jpg" />
+    <entry file="file://$PROJECT_DIR$/DialogBrowse.py" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.6.1.jpg" />
+    <entry file="file://$PROJECT_DIR$/Register_Update.py" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.None.55.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.None.10.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.None.1.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.None.2.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.None.6.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.None.25.jpg" />
+    <entry file="file://$PROJECT_DIR$/name2.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.1.61.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.1.6.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.1.5.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.2.2.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.2.4.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.2.1.jpg" />
+    <entry file="file://$PROJECT_DIR$/Login.py" />
+    <entry file="file://$PROJECT_DIR$/fix.py" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.1.9.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.1.4.jpg" />
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/Engine.py" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.1.2.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.1.1.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.1.8.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.1.13.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.1.11.jpg" />
+    <entry file="file://$PROJECT_DIR$/export/export.csv" />
+    <entry file="file://$PROJECT_DIR$/plan.txt" />
+    <entry file="file://$PROJECT_DIR$/export/kie_export.csv" />
+    <entry file="file://$PROJECT_DIR$/dataset/User.3.20.jpg" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-933469097/PyQt5/QtGui/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaa.py" />
+    <entry file="file://$PROJECT_DIR$/ListForm.py" />
+    <entry file="file://$PROJECT_DIR$/data/authen_status/question_icon5940.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/authen_status/unknown.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/User.2.8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DetailForm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="457" column="51" lean-forward="true" selection-start-line="457" selection-start-column="51" selection-end-line="457" selection-end-column="51" />
+          <folding>
+            <element signature="e#195#205#0" expanded="true" />
+            <marker date="1552721319601" expanded="true" signature="20859:20865" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginForm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="104" column="39" lean-forward="true" selection-start-line="104" selection-start-column="39" selection-end-line="104" selection-end-column="39" />
+          <folding>
+            <element signature="e#197#233#0" expanded="true" />
+            <marker date="1552714970243" expanded="true" signature="6781:6789" ph="..." />
+            <marker date="1552714970243" expanded="true" signature="9157:9158" ph="..." />
+            <marker date="1552714970243" expanded="true" signature="9157:9367" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacialRecognize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1552675415999" expanded="true" signature="52:57" ph="..." />
+            <marker date="1552675415999" expanded="true" signature="1464:1465" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegForm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4130">
+          <caret line="487" lean-forward="true" selection-start-line="487" selection-end-line="487" />
+          <folding>
+            <element signature="e#196#238#0" expanded="true" />
+            <marker date="1552679699654" expanded="true" signature="418:423" ph="..." />
+            <marker date="1552679699654" expanded="true" signature="15604:15611" ph="..." />
+            <marker date="1552679699654" expanded="true" signature="16397:16403" ph="..." />
+            <marker date="1552679699654" expanded="true" signature="18384:18390" ph="..." />
+            <marker date="1552679699654" expanded="true" signature="21456:21458" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
