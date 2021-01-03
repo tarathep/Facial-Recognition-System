@@ -4,6 +4,8 @@
 ระบบวิเคราห์ตรวจสอบบุคคลผ่านใบหน้านี้เป็นตัวอย่างการนำระบบ Facial Recognition System ของทาง OpenCV 
 มาทำการทดสอบและลองใช้งานเพื่อเป็นตัวอย่าง ซึ่งสามารถเอาไป implement ร่วมกับ กล้อง เช่น การ checkพนักงานเข้าทำงาน,การตรวจสอบ Authen บุคคล,และอื่นๆเป็นต้น
 
+<img src="https://raw.githubusercontent.com/tarathep/Facial-Recognition-System/master/Capture.PNG" width="50%">
+
 ## Features ระบบมีอะไรบ้าง?
 - Authenication (LOGIN)
 - ระบบวิเคราห์ตรวจสอบบุคคลผ่านใบหน้านี้จะวิเคราะห์ใบหน้าผ่าน camera โดยระบบจะมีสิทธิ์การใช้งานอยู่ 2 สิทธิ์ คือ
